@@ -7,6 +7,7 @@ public class Game {
 
     public final static int TRIES = 2;
 
+
     public Game(MessagePrinter messagePrinter, Scanner scanner) {
         this.messagePrinter = messagePrinter;
         this.scanner = scanner;
